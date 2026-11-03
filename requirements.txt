@@ -1,0 +1,14 @@
+# Core ML / cheminformatics
+torch
+rdkit
+numpy
+pandas
+scikit-learn
+joblib
+tqdm
+
+# Backend API
+flask
+flask-cors
+requests
+nest-asyncio

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Env / secrets
+.env
+.env.*
+
+# Large model artifacts & results (ship these via Git LFS or an external download)
+*.pkl
+*.ckpt
+*.pt
+*.pth
+*.h5
+models_active/
+data/results/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
